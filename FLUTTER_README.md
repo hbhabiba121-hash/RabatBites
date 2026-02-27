@@ -1,4 +1,4 @@
-# FoodieGo - Restaurant Discovery App (Flutter)
+# RabatBites - Restaurant Discovery App (Flutter)
 
 This is a complete **Flutter (Dart)** mobile application that implements the restaurant discovery UI.
 
