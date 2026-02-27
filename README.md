@@ -12,7 +12,7 @@ RabatBites est une application Flutter pour **découvrir et commander des plats 
 
 <p align="center">
   <img src="assets/screenshots/home.png" width="250"/>
-  <img src="assets/screenshots/search" width="250"/>
+  <img src="assets/screenshots/search.png" width="250"/>
   <img src="assets/screenshots/orders.png" width="250"/>
 </p>
 
